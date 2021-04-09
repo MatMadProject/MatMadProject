@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatMadProject
-- 👀 I’m interested in gym, soccer, learning, traveling, universe  exapnsion and SpaceX achivments.
+- 👀 I’m interested in gym, soccer, learning, traveling, universe  expansion and SpaceX achivments.
 - 🌱 I’m currently learning Java (JavaFX, Selenium), CSS, Javascript.
 - 💞️ I’m looking to collaborate on Java Project.
 - 📫 How to reach me. Find me on instagram @matmadcode or mail me matmadproject@gmail.com.
